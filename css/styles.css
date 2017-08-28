@@ -1,0 +1,33 @@
+/* add your CSS here */
+.int-fact{
+ font-style: italic;
+ padding:13px;
+}
+
+
+ul>li{
+	font-size:bold;
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+
+img{
+	
+    width: 300px;
+	
+}
+
+
+div{
+	border-style: solid;
+    
+}
+
+
+h3,img,{
+	padding:13px;
+}
