@@ -4,16 +4,17 @@
  padding:13px;
 }
 
-
-ul>li{
-	font-size:bold;
+body {
+    width: 340px;
 }
 
+ul>li>span{
+	font-weight: bold;
+}
 
 ul {
   list-style-type: none;
 }
-
 
 img{
 	
@@ -21,13 +22,12 @@ img{
 	
 }
 
-
 div{
 	border-style: solid;
     
 }
 
-
 h3,img,{
 	padding:13px;
 }
+
