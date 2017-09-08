@@ -1,33 +1,34 @@
 /* add your CSS here */
-.int-fact{
+.int-fact {
  font-style: italic;
- padding:13px;
+ padding:20px;
 }
 
 body {
     width: 340px;
 }
 
-ul>li>span{
+ul>li>span {
 	font-weight: bold;
 }
 
 ul {
   list-style-type: none;
+  padding:0;
 }
 
-img{
+img {
 	
     width: 300px;
 	
 }
 
-div{
+div {
 	border-style: solid;
     
 }
 
-h3,img,{
-	padding:13px;
+h3,img {
+	padding:20px;
 }
 
